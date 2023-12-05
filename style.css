@@ -26,6 +26,17 @@ section {
 .right-div{
 }
 
+.h3-intro{
+    font-weight: 100;
+}
+.span1{
+    font-weight: 900;
+}
+
+.left-div h1{
+    font-size: 300%;
+}
+
 #about-section,
 #feedback-section {
     background-color: #f0f0f0;
