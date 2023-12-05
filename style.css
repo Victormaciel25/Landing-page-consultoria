@@ -5,20 +5,25 @@ body {
     box-sizing: border-box;
 }
 
-header {
-    background-color: #006400;
-    color: white;
-    text-align: center;
-    padding: 20px;
-}
-
 section {
     padding: 40px;
     text-align: center;
 }
 
-#video-section {
-    background-color: #f0f0f0;
+#intro {
+    background-color: #0d550b;
+}
+
+.person-content{
+    display: flex;
+}
+
+.left-div{
+    width: 50%;
+    background: white;
+}
+
+.right-div{
 }
 
 #about-section,
