@@ -26,15 +26,28 @@ section {
 .right-div{
 }
 
+.tittle{
+    font-size:300%;
+}
+
+.emagrecimento{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 200%;
+    text-align: center;
+    text-decoration: none;
+    background-color: #4CAF50; /* Cor de fundo do botão */
+    color: #ffffff; /* Cor do texto do botão */
+    border: none; /* Remove a borda padrão do botão */
+}
+
 .h3-intro{
     font-weight: 100;
+    padding: 40px;
+    text-align: justify;
 }
 .span1{
     font-weight: 900;
-}
-
-.left-div h1{
-    font-size: 300%;
 }
 
 .button1{
